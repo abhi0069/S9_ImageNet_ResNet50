@@ -1,0 +1,40 @@
+# Dataset files and folders
+ImageNet 1000 (mini).zip
+imagenet train subset 100k.zip
+imagenet-mini/
+imagenet/
+ILSVRC/
+
+# Jupyter Notebooks
+imagenet.ipynb
+.ipynb_checkpoints/
+
+# Python files (as requested)
+imagenet.py
+
+# PyTorch checkpoints and runs
+checkpoints/
+runs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db 
