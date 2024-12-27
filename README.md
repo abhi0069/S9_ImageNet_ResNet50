@@ -19,6 +19,17 @@ This project implements ResNet50 training on the ImageNet dataset using PyTorch.
 - cuDNN 8.9
 - NVIDIA GPU
 
+## Dataset
+
+The ImageNet dataset used to test the model locally can be downloaded from:
+- [ImageNet Mini](https://www.kaggle.com/datasets/ifigotin/imagenetmini-1000) (Subset of ImageNet with 1000 classes)
+
+The ImageNet dataset used in this project can be downloaded from:
+- [ImageNet Mini](https://www.kaggle.com/datasets/ifigotin/imagenetmini-1000) (Subset of ImageNet with 1000 classes)
+
+Official link to ImageNet dataset:
+- [ImageNet Official](https://www.image-net.org/download.php) (Full ImageNet dataset, requires registration)
+
 ## Dataset Setup
 
 The ImageNet dataset should be organized as:
